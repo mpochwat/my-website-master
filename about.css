@@ -1,0 +1,90 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://stevetabone.files.wordpress.com/2012/10/dawn-at-bear-rocks-dolly-sods-wilderness.jpg');
+  height: 450px;
+  background-position: 0px -150px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 60px;
+  right: 100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.intro {
+  background-color: #efefef;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.intro h2 {
+    color: #393c3d;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.intro p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.ending {
+  background-color: #efefef;
+  border-top: 1px solid #dbdbdb;
+}
+
+.ending p {
+    font-size: 16px;
+    margin-bottom: 13px;
+}
+
+.intro .container {
+  position: relative;
+}
+
+.startup .container {
+  position: relative;
+  top: 10px;
+  bottom: 30px;
+}
+
+.startup p {
+    font-size: 16px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.startup .col-md-8 {
+    font-size: 16px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.ending .container {
+  position: relative;
+  top: 20px;  
+}
